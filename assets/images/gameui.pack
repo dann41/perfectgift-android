@@ -1,0 +1,40 @@
+
+gameui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gift
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 203, 137
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playcircle
+  rotate: false
+  xy: 203, 71
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+refresh
+  rotate: false
+  xy: 269, 137
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tomenu
+  rotate: false
+  xy: 203, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

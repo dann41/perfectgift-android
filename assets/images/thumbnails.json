@@ -1,0 +1,10 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	bglevel1: { drawable: bglevel1 },
+	bglevel2: { drawable: bglevel2 },
+	bglevel3: { drawable: bglevel3 },
+	bglevel4: { drawable: bglevel4 },
+	bglevel5: { drawable: bglevel5 },
+	bglevel6: { drawable: bglevel6 },
+},
+}

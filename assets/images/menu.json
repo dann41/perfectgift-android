@@ -1,0 +1,24 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	play: { down: play-pressed, up: play },
+	options: { down: options-pressed, up: options },
+	credits: { down: credits-pressed, up: credits },
+	back: { down: back-pressed, up: back },
+	level1: { down: level-completed, up:level-blocked},
+	level2: { down: level-completed, up:level-blocked},
+	level3: { down: level-completed, up:level-blocked},
+	level4: { down: level-completed, up:level-blocked},
+	level5: { down: level-completed, up:level-blocked},
+	level6: { down: level-completed, up:level-blocked},
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	title: { drawable: title},
+	title-world: { drawable: title-world },
+	credits-title: { drawable: credits-title },
+	credits-text: { drawable: credits-text },
+	title-world: { drawable: title-world },
+	world: { drawable: level-blocked },
+	worldCompleted: { drawable: level-completed },
+	dits: { drawable: dits},
+},
+}

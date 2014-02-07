@@ -1,0 +1,117 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cloud02
+  rotate: false
+  xy: 1, 423
+  size: 198, 88
+  orig: 198, 88
+  offset: 0, 0
+  index: -1
+cloud03
+  rotate: false
+  xy: 1, 336
+  size: 182, 85
+  orig: 182, 85
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 1, 256
+  size: 178, 78
+  orig: 178, 78
+  offset: 0, 0
+  index: -1
+lives
+  rotate: false
+  xy: 1, 126
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+dit1
+  rotate: false
+  xy: 97, 124
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: -1
+dit
+  rotate: false
+  xy: 148, 124
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: 1
+dit
+  rotate: false
+  xy: 201, 381
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: 2
+dove
+  rotate: false
+  xy: 1, 53
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+ground-right
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 53, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+item_gold_coin
+  rotate: false
+  xy: 199, 323
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dit
+  rotate: false
+  xy: 199, 191
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: 3
+dit
+  rotate: false
+  xy: 199, 59
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: 4
+billete
+  rotate: false
+  xy: 67, 90
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+euro
+  rotate: false
+  xy: 67, 56
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+caca
+  rotate: false
+  xy: 185, 397
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1

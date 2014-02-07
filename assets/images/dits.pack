@@ -1,0 +1,89 @@
+
+dits.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dit
+  rotate: false
+  xy: 1, 813
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 1
+dit
+  rotate: false
+  xy: 1, 610
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 2
+dit
+  rotate: false
+  xy: 303, 813
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 3
+dit
+  rotate: false
+  xy: 1, 407
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 4
+dit
+  rotate: false
+  xy: 303, 610
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 5
+dit
+  rotate: false
+  xy: 605, 813
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 6
+dit
+  rotate: false
+  xy: 1, 204
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 7
+dit
+  rotate: false
+  xy: 303, 407
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 8
+dit
+  rotate: false
+  xy: 605, 610
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 9
+dit
+  rotate: false
+  xy: 1, 1
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 10
+dit
+  rotate: false
+  xy: 303, 204
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 11
+dit
+  rotate: false
+  xy: 605, 407
+  size: 300, 201
+  orig: 300, 201
+  offset: 0, 0
+  index: 12
